@@ -6,6 +6,7 @@ label {
   font-size: 1.2rem;
   margin-top: 1rem;
   margin-bottom: 0.5rem;
+  color: #eee;
 }
 input {
   padding: 0.5rem;
@@ -32,12 +33,11 @@ li {
   padding: 0.5rem;
   box-sizing: border-box;
   text-decoration: none;
-  color: black;
+  color: #eee;
 }
 
 .search-result li a:hover {
-  background-color: #435a60;
-  color: white;
+  background-color: #1976D2;
 }
 
 ul.search-result {
