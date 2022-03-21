@@ -41,7 +41,7 @@ input {
 }
 
 .heroes a:active {
-  background-color: #1976D2;
+  background-color: #1976d2;
   color: #fafafa;
 }
 
@@ -50,7 +50,7 @@ input {
   font-size: small;
   color: white;
   padding: 0.8em 0.7em 0 0.7em;
-  background-color: #1976D2;
+  background-color: #1976d2;
   line-height: 1em;
   position: relative;
   left: -1px;
@@ -70,7 +70,7 @@ input {
 
 .add-button:hover {
   color: #eee;
-  background-color: #1976D2;
+  background-color: #1976d2;
 }
 
 button.delete {
@@ -85,6 +85,10 @@ button.delete {
 }
 
 button.delete:hover {
-  background-color: #1976D2;
+  background-color: #1976d2;
+  color: #eee;
+}
+
+label {
   color: #eee;
 }
